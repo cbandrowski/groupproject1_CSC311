@@ -2,6 +2,7 @@ package org.example.groupproject1_csc311;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
+import javafx.scene.Group;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
 
@@ -19,6 +20,7 @@ public class HelloApplication extends Application {
         Scene scene = new Scene(fxmlLoader.load(), 320, 240);
         stage.setTitle("Group Project 1  ");
         stage.setScene(scene);
+        Group grp= new Group();
         stage.show();
     }
 
