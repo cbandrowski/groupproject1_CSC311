@@ -4,13 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8603d34-0720-4006-987b-df7fc3f04018" name="Changes" comment="first edit">
+    <list default="true" id="c8603d34-0720-4006-987b-df7fc3f04018" name="Changes" comment="Merge remote-tracking branch 'origin/branch1' into branch1">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/car.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/maze.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/maze2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/robot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/groupproject1_csc311/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/groupproject1_csc311/HelloApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -45,6 +58,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Animation.executor": "Run",
+    "Application.HelloApplication.executor": "Run",
+    "Application.MazeTwo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
@@ -60,6 +76,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -76,7 +97,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726756131198</updated>
-      <workItem from="1726756132180" duration="4877000" />
+      <workItem from="1726756132180" duration="33111000" />
     </task>
     <task id="LOCAL-00001" summary="first edit">
       <option name="closed" value="true" />
@@ -110,7 +131,47 @@
       <option name="project" value="LOCAL" />
       <updated>1726757239890</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="first edit">
+      <option name="closed" value="true" />
+      <created>1726763759324</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726763759324</updated>
+    </task>
+    <task id="LOCAL-00006" summary="first edit">
+      <option name="closed" value="true" />
+      <created>1726763801925</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1726763801925</updated>
+    </task>
+    <task id="LOCAL-00007" summary="commit first change">
+      <option name="closed" value="true" />
+      <created>1726763872547</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1726763872547</updated>
+    </task>
+    <task id="LOCAL-00008" summary="commit first change">
+      <option name="closed" value="true" />
+      <created>1726763898462</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1726763898462</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Merge remote-tracking branch 'origin/branch1' into branch1">
+      <option name="closed" value="true" />
+      <created>1726764176530</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1726764176530</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,7 +179,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first edit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first edit" />
+    <MESSAGE value="commit first change" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/branch1' into branch1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/branch1' into branch1" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
