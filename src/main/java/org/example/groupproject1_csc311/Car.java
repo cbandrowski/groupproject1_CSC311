@@ -15,6 +15,7 @@ import java.io.IOException;
  * Title:Car Object class
  * Description: Car object class used to
  * load images for cars or draw cars to be used in maze
+ * @Authors Cody Bandrowski
  */
 public class Car {
     //Car's Current Position

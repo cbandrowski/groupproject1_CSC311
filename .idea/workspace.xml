@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8603d34-0720-4006-987b-df7fc3f04018" name="Changes" comment="Merge remote-tracking branch 'origin/branch1' into branch1">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/car.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/maze.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/maze2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/robot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/groupproject1_csc311/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/groupproject1_csc311/HelloApplication.java" afterDir="false" />
-    </list>
+    <list default="true" id="c8603d34-0720-4006-987b-df7fc3f04018" name="Changes" comment="Merge remote-tracking branch 'origin/branch1' into branch1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,7 +89,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726756131198</updated>
-      <workItem from="1726756132180" duration="33111000" />
+      <workItem from="1726756132180" duration="33431000" />
     </task>
     <task id="LOCAL-00001" summary="first edit">
       <option name="closed" value="true" />
@@ -171,7 +163,23 @@
       <option name="project" value="LOCAL" />
       <updated>1726764176530</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Merge remote-tracking branch 'origin/branch1' into branch1">
+      <option name="closed" value="true" />
+      <created>1727147389089</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1727147389089</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Merge remote-tracking branch 'origin/branch1' into branch1">
+      <option name="closed" value="true" />
+      <created>1727147425124</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1727147425124</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
